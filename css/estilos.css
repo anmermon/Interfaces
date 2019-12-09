@@ -218,7 +218,7 @@ nav .enlaces input {
 }
 
 .cont-exp {
-  width: 31%;
+  width: 30%;
   box-shadow: 0 0 6px 0 rgba(0, 0, 0, .5);
   height: 300px;
   overflow: hidden;
@@ -226,7 +226,7 @@ nav .enlaces input {
 }
 
 .img-exp {
-  height: 90%;
+  height: 85%;
   width: 100%;
 }
 
@@ -237,7 +237,9 @@ nav .enlaces input {
 }
 
 .textos-exp {
-  height: 10%;
+
+  margin: 10px 0 0 0;
+  height: 15%;
 }
 
 .textos-exp h4 {
